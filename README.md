@@ -1,4 +1,4 @@
-# sql_data_warehouse_project
+# Data Warehouse project
 This project demonstrates building a streamlined SQL-based data warehouse that is scalable, efficient, and analytics-ready. 
 ---
 TBA
